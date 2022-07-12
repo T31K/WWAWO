@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+h1 {
+  font-size: 20vw;
+}
+
+h3 {
+  font-size: 10vw;
+}
+
+h1,h3 {
+  text-align: center;
+  margin: 0;
+  font-family: 'Rubik', sans-serif;
+}
+
+div.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:  100vh;
+}
